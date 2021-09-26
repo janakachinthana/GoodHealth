@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 //class declaretion and inherit from the react
 export default class Welcome extends Component {
 
+    // eslint-disable-next-line no-useless-constructor
     constructor(props) {
         super(props);
     }

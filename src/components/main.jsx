@@ -10,6 +10,7 @@ import Welcome from './welcome';
 //class Declaretion 
 export default class Main extends Component {
 
+    // eslint-disable-next-line no-useless-constructor
     constructor(props) {
         super(props);
     }
