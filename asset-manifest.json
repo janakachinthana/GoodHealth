@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/GoodHealth/static/css/main.a617e044.chunk.css",
-    "main.js": "/GoodHealth/static/js/main.43d3b3c3.chunk.js",
-    "main.js.map": "/GoodHealth/static/js/main.43d3b3c3.chunk.js.map",
-    "runtime-main.js": "/GoodHealth/static/js/runtime-main.2d34c09a.js",
-    "runtime-main.js.map": "/GoodHealth/static/js/runtime-main.2d34c09a.js.map",
-    "static/js/2.d6b76cda.chunk.js": "/GoodHealth/static/js/2.d6b76cda.chunk.js",
-    "static/js/2.d6b76cda.chunk.js.map": "/GoodHealth/static/js/2.d6b76cda.chunk.js.map",
-    "static/js/3.b03b7a7c.chunk.js": "/GoodHealth/static/js/3.b03b7a7c.chunk.js",
-    "static/js/3.b03b7a7c.chunk.js.map": "/GoodHealth/static/js/3.b03b7a7c.chunk.js.map",
+    "main.js": "/GoodHealth/static/js/main.e7e6cf3b.chunk.js",
+    "main.js.map": "/GoodHealth/static/js/main.e7e6cf3b.chunk.js.map",
+    "runtime-main.js": "/GoodHealth/static/js/runtime-main.f877e8dd.js",
+    "runtime-main.js.map": "/GoodHealth/static/js/runtime-main.f877e8dd.js.map",
+    "static/js/2.4f4afd66.chunk.js": "/GoodHealth/static/js/2.4f4afd66.chunk.js",
+    "static/js/2.4f4afd66.chunk.js.map": "/GoodHealth/static/js/2.4f4afd66.chunk.js.map",
     "index.html": "/GoodHealth/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/GoodHealth/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d6b76cda.chunk.js.LICENSE.txt": "/GoodHealth/static/js/2.d6b76cda.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/GoodHealth/static/media/logo.6ce24c58.svg"
+    "static/js/2.4f4afd66.chunk.js.LICENSE.txt": "/GoodHealth/static/js/2.4f4afd66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d34c09a.js",
-    "static/js/2.d6b76cda.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.43d3b3c3.chunk.js"
+    "static/js/runtime-main.f877e8dd.js",
+    "static/js/2.4f4afd66.chunk.js",
+    "static/js/main.e7e6cf3b.chunk.js"
   ]
 }
